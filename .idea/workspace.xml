@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ff51f00-afd0-4346-89a1-b5311fb0ec3e" name="Changes" comment="Version 0.0.3 adjusted output" />
+    <list default="true" id="0ff51f00-afd0-4346-89a1-b5311fb0ec3e" name="Changes" comment="Version 0.0.5 added function to delete books and cleaned up some code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lib.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lib.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +57,7 @@
       <updated>1699449838153</updated>
       <workItem from="1699449839143" duration="1564000" />
       <workItem from="1699452524004" duration="106000" />
-      <workItem from="1699452641815" duration="3509000" />
+      <workItem from="1699452641815" duration="4931000" />
     </task>
     <task id="LOCAL-00001" summary="Version 0.0.1 Booklib with 10 slots created and function to add books">
       <option name="closed" value="true" />
@@ -79,7 +83,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699457841229</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Version 0.0.4 adjusted output">
+      <option name="closed" value="true" />
+      <created>1699458078306</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699458078306</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +101,8 @@
     <MESSAGE value="Version 0.0.1 Booklib with 10 slots created and function to add books" />
     <MESSAGE value="Version 0.0.2 added function to end programm" />
     <MESSAGE value="Version 0.0.3 adjusted output" />
-    <option name="LAST_COMMIT_MESSAGE" value="Version 0.0.3 adjusted output" />
+    <MESSAGE value="Version 0.0.4 adjusted output" />
+    <MESSAGE value="Version 0.0.5 added function to delete books and cleaned up some code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 0.0.5 added function to delete books and cleaned up some code" />
   </component>
 </project>

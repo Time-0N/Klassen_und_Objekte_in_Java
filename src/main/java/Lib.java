@@ -17,4 +17,7 @@ public class Lib {
     public void setLib(Book[] lib) {
         this.lib = lib;
     }
+    public void deleteBook(int selectedSlot) {
+        lib[selectedSlot] = null;
+    }
 }
