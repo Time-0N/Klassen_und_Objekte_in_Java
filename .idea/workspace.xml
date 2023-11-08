@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ff51f00-afd0-4346-89a1-b5311fb0ec3e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lib.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="0ff51f00-afd0-4346-89a1-b5311fb0ec3e" name="Changes" comment="Version 0.0.1 Booklib with 10 slots created and function to add books" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,11 +53,24 @@
       <updated>1699449838153</updated>
       <workItem from="1699449839143" duration="1564000" />
       <workItem from="1699452524004" duration="106000" />
-      <workItem from="1699452641815" duration="2811000" />
+      <workItem from="1699452641815" duration="3169000" />
     </task>
+    <task id="LOCAL-00001" summary="Version 0.0.1 Booklib with 10 slots created and function to add books">
+      <option name="closed" value="true" />
+      <created>1699457285714</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699457285714</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Version 0.0.1 Booklib with 10 slots created and function to add books" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 0.0.1 Booklib with 10 slots created and function to add books" />
   </component>
 </project>
