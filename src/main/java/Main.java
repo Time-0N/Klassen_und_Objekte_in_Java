@@ -47,12 +47,18 @@ public class Main {
                     }
                     addBookToLib(lib1, selectedSlot, book);
 
+                    System.out.println("");
                     System.out.println(book);
+                    System.out.println("");
 
+                    System.out.println("");
                     System.out.println(lib);
+                    System.out.println("");
                     break;
                 case 2:
+                    System.out.println("");
                     System.out.println(lib);
+                    System.out.println("");
                     break;
                 default:
                     System.out.println("Invalid input");
