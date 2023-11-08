@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ff51f00-afd0-4346-89a1-b5311fb0ec3e" name="Changes" comment="Version 0.0.1 Booklib with 10 slots created and function to add books" />
+    <list default="true" id="0ff51f00-afd0-4346-89a1-b5311fb0ec3e" name="Changes" comment="Version 0.0.3 adjusted output" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +53,7 @@
       <updated>1699449838153</updated>
       <workItem from="1699449839143" duration="1564000" />
       <workItem from="1699452524004" duration="106000" />
-      <workItem from="1699452641815" duration="3169000" />
+      <workItem from="1699452641815" duration="3509000" />
     </task>
     <task id="LOCAL-00001" summary="Version 0.0.1 Booklib with 10 slots created and function to add books">
       <option name="closed" value="true" />
@@ -63,7 +63,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699457285714</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Version 0.0.2 added function to end programm">
+      <option name="closed" value="true" />
+      <created>1699457673854</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699457673854</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Version 0.0.3 adjusted output">
+      <option name="closed" value="true" />
+      <created>1699457841229</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699457841229</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,6 +87,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Version 0.0.1 Booklib with 10 slots created and function to add books" />
-    <option name="LAST_COMMIT_MESSAGE" value="Version 0.0.1 Booklib with 10 slots created and function to add books" />
+    <MESSAGE value="Version 0.0.2 added function to end programm" />
+    <MESSAGE value="Version 0.0.3 adjusted output" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 0.0.3 adjusted output" />
   </component>
 </project>

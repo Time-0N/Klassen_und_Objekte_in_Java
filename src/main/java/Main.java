@@ -39,10 +39,10 @@ public class Main {
                         System.out.println("Enter the Slot to safe book on");
                         selectedSlot = sc.nextInt();
                         selectedSlot--;
-                        if (lib1.length >= selectedSlot && selectedSlot >= 0) {
+                        if (lib1.length > selectedSlot && selectedSlot >= 0) {
                             break;
                         } else {
-                            System.out.println("Number is to big");
+                            System.out.println("Number is not valid");
                         }
                     }
                     addBookToLib(lib1, selectedSlot, book);

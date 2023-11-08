@@ -37,6 +37,6 @@ public class Book {
         return "{ Book" +
                 "title: " + title + " " +
                 "| author: " + author + " " +
-                "| isbn: }" + isbn;
+                "| isbn: " + isbn + "}";
     }
 }
